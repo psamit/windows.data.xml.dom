@@ -6,7 +6,8 @@
     "defines": [],
     "include_dirs": [],
     "libraries": [],
-    "msbuild_toolset": "v140"
+    "msbuild_toolset": "v141",
+    "msvs_windows_target_platform_version": "10.0.17763.0"
   },
   "variables": {
     "asan": 0,
@@ -72,12 +73,8 @@
     "v8_use_siphash": 1,
     "v8_use_snapshot": 1,
     "want_separate_host_toolset": 0,
-    "nodedir": "C:\\Users\\Amit\\.electron-gyp\\7.1.2",
+    "nodedir": "C:\\Users\\Amit\\AppData\\Local\\node-gyp\\Cache\\12.13.1",
     "standalone_static_library": 1,
-    "msbuild_path": "C:\\Program Files (x86)\\MSBuild\\14.0\\bin\\MSBuild.exe",
-    "target": "7.1.2",
-    "build_from_source": "true",
-    "disturl": "https://electronjs.org/headers",
-    "runtime": "electron"
+    "msbuild_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\MSBuild\\15.0\\Bin\\MSBuild.exe"
   }
 }
